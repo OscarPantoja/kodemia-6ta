@@ -1,0 +1,9 @@
+li{
+    color: blue;
+    list-style: none;
+}
+
+li:hover{
+    color: green;
+    cursor: pointer;
+}
